@@ -1,0 +1,88 @@
+.container {
+    overflow:hidden;
+}
+
+.div12{
+    background: linear-gradient(to top, #333333, #dd1818); 
+    max-width: none; 
+    border-top-left-radius: 200px 150px;
+    border-bottom-right-radius: 200px 150px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.divisor{
+    clear:both; 
+    margin:80px;
+}
+
+.titulof{
+    
+    width:450px;
+    height:100px;
+    display:block;
+    margin:auto;
+    color: #9a0506;
+
+}
+
+.mapa{
+    background-color:#E6E6E6;
+    color: black;
+}
+
+.cuadritos{
+    float: left;
+}
+
+.cartas{
+    width: 64px;
+    height: 64px;
+}
+
+.logou{
+    width: 30px;
+    height: 30px;
+}
+
+.mapagoogle{
+    display: block;
+    margin: 0 auto;
+    border: 0;
+}
+
+.boton6{
+    background-color: #a60506;
+    color: white;
+}
+
+.trans{
+    -webkit-border-radius: 50px;
+     -moz-border-radius: 50px;
+     border-radius: 50px;
+     margin: 5px;
+     padding:10px;
+     font-family: Arial;
+     font-size: 18px;
+     font-style: blond;
+     display: block; 
+     margin: 0 auto;
+     
+   }
+
+   .pie{
+    color:white;
+    font-style: inherit;
+    text-align: center;
+    font-size: 18px;
+}
+
+.form-group:hover{
+color:#9a0506;
+}
+
+.top{
+    position: fixed;
+    bottom: 10px;
+    right: 2%;
+}

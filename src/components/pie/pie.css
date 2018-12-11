@@ -1,0 +1,15 @@
+.div12{
+    background: linear-gradient(to top, #333333, #dd1818); 
+    max-width: none; 
+    border-top-left-radius: 200px 150px;
+    border-bottom-right-radius: 200px 150px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.pie{
+    color:white;
+    font-style: inherit;
+    text-align: center;
+    font-size: 18px;
+}

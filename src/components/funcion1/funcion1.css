@@ -1,0 +1,28 @@
+.container {
+    overflow:hidden;
+}
+
+.divisor{
+    clear:both; 
+    margin:80px;
+}
+
+.div5{ 
+    background: #FFFFFF;
+}
+
+.imagen10{
+    text-align: center;
+
+}
+
+.parrafo2{
+    text-align: center;
+    margin-left: 5%;
+}
+
+.titulo2{
+    text-align: center;
+    margin-right: 10%;
+}
+

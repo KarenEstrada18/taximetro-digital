@@ -1,0 +1,19 @@
+.navbar{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+}
+
+.nav-link{
+    font-size:20px;
+    color: black;
+    font-family: 'Noto Sans TC';
+}
+
+.nav-link:hover{
+    color:#9a0506;
+}
+
+.nav1:hover{
+    color:black;
+}

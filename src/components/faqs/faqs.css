@@ -1,0 +1,40 @@
+.container {
+    overflow:hidden;
+}
+
+.subtitulo{
+    font-style: blond;
+    color:black;
+    font-size: 17px;
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+}
+
+.div10{ 
+    background: #FFFFFF;
+    text-align: center;
+}
+
+.div11{ 
+    background: #FFFFFF;
+    display: block;
+}
+
+.titulocol1{
+    color:#9a0506;
+    
+}
+
+.letras{
+    font-style: normal;
+    color: #424242;
+}
+
+
+.cuadritos{
+    float: left;
+}
+

@@ -1,0 +1,40 @@
+.container {
+    overflow:hidden;
+}
+
+.card-title{
+    color: #9a0506; 
+}
+
+.div3{
+    background: #FFFFFF;
+}
+.cuadritos{
+    float: left;
+}
+
+.cartas{
+    width: 64px;
+    height: 64px;
+    text-align: justify;
+}
+
+.zoom2{
+    transition: transform .2s;
+    margin: 0 auto;
+}
+
+.zoom2:hover {
+    transform: scale(1.1); 
+}
+
+.divisor{
+    clear:both; 
+    margin:80px;
+}
+
+.img8{
+    display:block;
+    margin:auto;
+    
+}

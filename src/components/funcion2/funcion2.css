@@ -1,0 +1,40 @@
+.divisor{
+    clear:both; 
+    margin:80px;
+}
+
+.div6{
+    background: linear-gradient(to bottom, #870000, #190a05);
+    max-width: none; 
+    height: 100%; 
+    border-top-left-radius: 200px 150px;
+    border-bottom-right-radius: 200px 150px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.imagen11{
+    align-content: center;
+    margin-left: 5%;
+}
+
+.funcion{
+    color:white;
+    text-align: center;
+    font-size: 17px;
+}
+
+.trans2{
+    margin: 5px;
+    padding:10px;
+    font-family: Arial;
+    font-size: 16px;
+  }
+
+.boton2{
+    color: #000000;
+}
+
+.titulo3{
+    color: white;
+}

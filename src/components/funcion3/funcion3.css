@@ -1,0 +1,28 @@
+.container {
+    overflow:hidden;
+}
+
+.divisor{
+    clear:both; 
+    margin:80px;
+}
+
+.div7{ 
+    background: #FFFFFF;
+}
+
+.titulo2{
+    color : #9a0506;
+    font-size: 35px;
+    text-align: center;
+}
+
+.parrafo2{
+    color:black;
+    text-align: justify;
+    font-size: 17px; 
+}
+
+.img12{
+   align-content: center;
+}

@@ -1,0 +1,62 @@
+
+.divisor{
+    clear:both; 
+    margin:80px;
+}
+.div4{
+    background: linear-gradient(to bottom, #870000, #190a05);
+    max-width: none; 
+    height: 100%; 
+    border-top-left-radius: 200px 150px;
+    border-bottom-right-radius: 200px 150px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.imagen9{
+    padding-left: 100px;
+    width: 100%;
+}
+
+.titulo{
+    color:white;
+    text-align: center;
+}
+
+.funcion{
+    color:white;
+    text-align: justify;
+    font-size: 17px;
+    
+}
+
+.trans1{
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px;
+    font-family: Arial;
+    font-size: 18px;  
+    display: flex;
+    justify-content: center;
+    width: 30%;
+  }
+
+.boton5{
+    color:#000000;
+    background-color: white;
+    margin:auto;
+}
+
+.boton5:hover{
+    text-decoration: none;
+    color: #9a0506;
+}
+
+.top{
+    position: fixed;
+    bottom: 10px;
+    
+    opacity: .5;
+}

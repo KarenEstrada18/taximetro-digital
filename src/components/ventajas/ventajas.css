@@ -1,0 +1,36 @@
+.container {
+    overflow:hidden;
+}
+
+.card-title{
+    color: #9a0506;
+    text-align: center;
+}
+
+.div3{
+    background: #FFFFFF;
+}
+
+.cuadritos{
+    float: left;
+}
+
+.cartas{
+    width: 64px;
+    height: 64px;
+    text-align: justify;
+}
+
+
+hr{
+    width:50px;
+    background-color:#9a0506;
+    height: 5px;
+    margin-left: 0%;
+    margin-right: 50%;
+}
+
+
+.divisor{
+    margin:20%;
+}
