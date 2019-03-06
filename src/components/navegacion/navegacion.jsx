@@ -19,7 +19,7 @@ class Navegacion extends Component {
           <span className="navbar-toggler-icon"><img src="/img/menu.svg" alt=""/></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav ml-auto">
+          <ul className="navbar-nav">
             <li className="nav-item active">
               <a className="nav-link" href="#ventajas">VENTAJAS<span className="sr-only">(current)</span></a>
             </li>
